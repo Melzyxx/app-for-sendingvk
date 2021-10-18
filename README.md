@@ -1,8 +1,9 @@
-#Kivy application for sending messages VK
+# Kivy application for sending messages VK
 
 Rus: Приложение для рассылки сообщений среди подписчиков группы в ВКонтакте
 
-##Using
+---
+## Using
 
 Eng:
 10 Line - Paste your token vk group
@@ -11,4 +12,5 @@ Eng:
 Rus:
 10 Строка - Вставьте свой токен группы вк
 11 Строка - Вставьте ваш айди группы вк
+
 
