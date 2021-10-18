@@ -4,7 +4,6 @@ from kivy.uix.textinput import TextInput
 from kivy.uix.button import Button
 
 from saya import Vk
-import json
 
 #settings
 VK_TOKEN = "вк токен"
